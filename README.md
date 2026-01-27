@@ -1,6 +1,4 @@
-## Let's Build Together! ✨
-
-I'd be happy to work with you! 🚀 Whether you need help integrating ProgressHUD, have questions, or want to collaborate on a project, feel free to [reach out](https://relatedcode.com/#contact-form).
+[![VibePrompting](VibePrompting.png)](https://vibeprompting.dev)
 
 ## WHAT'S NEW
 
